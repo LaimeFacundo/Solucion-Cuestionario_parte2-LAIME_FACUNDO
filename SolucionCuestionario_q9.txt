@@ -1,0 +1,40 @@
+LAIMEFACUNDO
+
+Cuestiones propuestas del Capítulo de Objetos y Clases
+
+- 9.1. En Programación Orientada a Objetos, una instancia es...**
+    -  a) un ejemplar o variable de una clase determinada
+    -  b) la declaración de una clase
+    -  c) un atributo o un método de una clase
+    -  d) una llamada a un método
+    -  e) Ninguna de las anteriores
+
+- 9.2. En Programación Orientada a Objetos, una clase es...**
+    - a) una variable de un tipo determinado
+    - b) la declaracion de una instancia en un programa
+    - c) un conjunto cerrado de objetos de distinto tipo relacionados entre sí por la herencia
+    - d) un tipo de dato objeto
+    - e) Ninguna de las anteriores
+
+- 9.3. En Programación Orientada a Objetos una clase se compone de:**
+    - a) constantes y variables
+    - b) funciones y procedimientos
+    - c) atributos y métodos
+    - d) diferentes tipos de dato
+    - e) Ninguna de las anteriores
+
+- 9.4. En Java, la declaración de una clase utiliza siempre la palabra reservada...**
+    - a) object
+    - b) class
+    - c) type
+    - d) instance
+    - e) Ninguna de las anteriores
+
+- 9.5. En el código fuente de un programa de Java, para la creación de una nueva instancia se utiliza la palabra reservada...
+    - a) instanceof
+    - b) this
+    - c) class
+    - d) new
+    - e) Ninguna de las anteriores
+
+- 9.6. Indicar qué palabra reservada de Java se utiliza siempre en la declaración de una componente (atributo o método) de una clase con acceso directo restringido al código fuente de la propia clase.
