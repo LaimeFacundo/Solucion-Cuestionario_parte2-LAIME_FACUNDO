@@ -1,1 +1,50 @@
-cuestionario
+
+
+
+Cuestiones propuestas del Capítulo de Algunas clases estándar de Java (I)
+
+
+
+
+
+
+- 10.1. Indicar cuáles de los siguientes son identificadores de wrappers o clases contenedoras
+    - a) Integer -------- X
+    - b) Char
+    - c) Double ----------- X
+    - d) Boolean ---------- X
+    - e) Ninguna de las anteriores
+
+- 10.2. Indicar cuáles de las siguientes afirmaciones son correctas:
+    - a) La clase String es un tipo primitivo
+    - b) Un String puede tener elementos de tipo no primitivo
+    - c) Un String solo puede tener caracteres ------------ X
+    - d) Un String puede ser multidimensional
+    - e) Ninguna de las anteriores
+
+- 10.3. Indicar cuáles de los siguientes son constantes literales de tipo String:
+    - a) ’Juan‘ ---------- X
+    - b) Luis
+    - c) "Pedro" -------------- X
+    - d) /Antonio/
+    - e) Ninguna de las anteriores
+
+- 10.4. El índice que especifica cada uno de los carácteres de un String es un valor de tipo:
+    - a) Entero ------------- X
+    - b) Real
+    - c) Carácter
+    - d) Puede ser de cualquier tipo
+    - e) Ninguna de las anteriores
+
+- 10.5. Indicar el resultado de las siguientes expresiones
+    - a) "CASA" + "BLANCA" = CASABLANCA
+    - b) "CASA" - "SA" = No se puede
+    - c)"A" + 4 + 7 + "B" = AK7B
+    - d) 4 + 7 + "AB" = 11AB
+
+- 10.6. Indicar cuáles de los siguientes son identificadores de métodos de la clase String:
+    - a) length ------------ X
+    - b) charAt --------- X
+    - c) equals ---------- X
+    - d) valueOf ---------- X
+    - e) Ninguna de las anteriores
