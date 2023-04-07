@@ -25,5 +25,5 @@ Cuestiones propuestas del Capítulo de Algunas clases estándar de Java (II)
     - a) + --------------- X
     - b) *
     - c) ==
-    - d) >=
+    - d) >= 
     - e) Ninguno de las anteriores
