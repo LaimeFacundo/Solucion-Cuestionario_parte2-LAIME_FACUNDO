@@ -23,6 +23,7 @@
     
 - 15.3. Indicar la salida por pantalla al ejecutar el siguiente programa:
 ```java
+
 public class ParametrosBis {
   public static void main (String [] args ) {
     int n;
@@ -41,4 +42,6 @@ public class ParametrosBis {
     System.out.println("Dentro: " + p + " " + q[0] +" "+ q[1]);
   }
 }
+
+
 ```
