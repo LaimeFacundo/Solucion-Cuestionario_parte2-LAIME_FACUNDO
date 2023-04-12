@@ -1,8 +1,6 @@
 Cuestiones propuestas del Capítulo de Packages o Paquetes
 
 
-
-
 - 19.1. En el lenguaje de programacion Java, un package o paquete es:
     - a) un conjunto de métodos pertenecientes a una clase.
     - b) un atributo de tipo String
